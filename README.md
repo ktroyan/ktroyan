@@ -1,4 +1,4 @@
-Hi, I’m @ktroyan. I’m interested in CS, AI, ML, etc. I am currently learning more about it. 
+Hi, I’m @ktroyan. I’m interested in CS, AI, ML, etc. I am currently learning more at ETH Zürich. 
 I am looking to discuss anything Science related and collaborate on AI/ML projects. 
 Feel free to contact me ^^
 
